@@ -26,3 +26,4 @@ INFO:httpx:HTTP Request: POST https://api.openai.com/v1/threads/thread_anqr4IATz
 INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_anqr4IATzr61BDdjCjhYSO4f/runs/run_eCfTpFoHsB5deQknmi5p6A6J "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_anqr4IATzr61BDdjCjhYSO4f/runs/run_eCfTpFoHsB5deQknmi5p6A6J "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://api.openai.com/v1/threads/thread_anqr4IATzr61BDdjCjhYSO4f/messages "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/files "HTTP/1.1 200 OK"
